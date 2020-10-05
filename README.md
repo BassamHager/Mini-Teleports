@@ -11,10 +11,10 @@ UE4 4.25
 
 
 ## Usage
-1- Grab the UE4 project from GitHub.
-2- Apply the contents of this repository on top.
-3- Run Setup.bat.
-4- Build a local version of the engine
+- Grab the UE4 project from GitHub.
+- Apply the contents of this repository on top.
+- Run Setup.bat.
+- Build a local version of the engine
 
 
 
